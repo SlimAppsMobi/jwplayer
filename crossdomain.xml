@@ -2,5 +2,5 @@
 <!DOCTYPE cross-domain-policy SYSTEM "http://www.adobe.com/xml/dtds/cross-domain-policy.dtd">
 <cross-domain-policy>
    <allow-access-from domain="*.https://www.youtube.com/watch?v=KNSpUBhvA30"/>
-   <allow-access-from domain="www.dunchat.com/slimApps/movies/"/>
+   <allow-access-from domain="www.slimApps.com/movies/"/>
 </cross-domain-policy>
